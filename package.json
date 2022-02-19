@@ -18,6 +18,6 @@
     "typescript": "^4.5.5"
   },
   "dependencies": {
-    "@cloud-helper/file-helper": "git+https://github.com/lnthieu/cloud-helper.git#file-helper_0.0.1"
+    "@cloud-helper/file-helper": "git+https://github.com/lnthieu/cloud-helper.git#file-helper"
   }
 }
