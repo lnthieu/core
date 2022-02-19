@@ -1,6 +1,6 @@
 {
-  "name": "cloud-helper",
-  "version": "0.0.0",
+  "name": "@core/core-1",
+  "version": "0.0.1",
   "description": "",
   "main": "src/index.ts",
   "scripts": {
@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "@cloud-helper/file-helper": "git+https://github.com/lnthieu/cloud-helper.git#file-helper_0.0.1"
   }
 }
